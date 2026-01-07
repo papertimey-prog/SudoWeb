@@ -1,2 +1,0 @@
-# SudoWeb
-My Web
